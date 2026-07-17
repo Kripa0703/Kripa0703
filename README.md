@@ -132,16 +132,11 @@ Image processing and object detection projects.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kripa0703&show_icons=true&theme=github_dark"/>
+![](https://github-readme-stats.vercel.app/api?username=Kripa0703&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripa0703&layout=compact&theme=github_dark"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kripa0703&layout=compact&theme=tokyonight)
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kripa0703&theme=github-dark-blue"/>
-
+![](https://streak-stats.demolab.com?user=Kripa0703&theme=tokyonight)
 </p>
 
 ---
