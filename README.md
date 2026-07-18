@@ -25,4 +25,4 @@ Open to ML/CV internship conversations — reach out on LinkedIn.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kripa0703&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
