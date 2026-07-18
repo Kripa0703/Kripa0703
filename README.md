@@ -1,6 +1,6 @@
 # Kripa
 
-Computer Science Engineering student (B.Tech, 3rd year), building toward machine learning and computer vision — with a preference for projects that ship past the notebook and into something that actually runs.
+Computer Science Engineering student (B.Tech, 3rd year), building toward machine learning and computer vision — with a preference for projects that ship past the notebook and into something that actually runs. Traffic systems turned out to be a good excuse to learn both computer vision and backend engineering at once, which is how AETIS started.
 
 ### Currently building
 
@@ -20,6 +20,8 @@ Classification, data analysis, and visualization work using pandas, NumPy, and s
 ### Elsewhere
 
 [Portfolio](#) · [LinkedIn](https://linkedin.com/in/connectwithkripa) · [LeetCode](https://leetcode.com/u/kripa07/) · [CodeChef](https://www.codechef.com/users/krip0703) · [Kaggle](https://www.kaggle.com/kay12324) · [HackerRank](https://www.hackerrank.com/profile/praveshkripa95)
+
+Open to ML/CV internship conversations — reach out on LinkedIn.
 
 ---
 
